@@ -1,0 +1,125 @@
+commit c322b5d2ab0a5de7987ab130c89dbe99d4bb78d8
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Mon Apr 4 08:38:37 2022 +0200
+
+    Modified the Makefile to remove the unit test executable
+
+commit bea98e3f526e5593e3d27ddf8fa34db447cbb335
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Mon Apr 4 08:37:43 2022 +0200
+
+    Modified the unit test file
+
+commit 59ec68afbe04f3e634929b1e578c798fee07f74b
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Sat Apr 2 00:21:31 2022 +0200
+
+    I added the PGMImageProcessor test cases
+
+commit 67923c1af780270419f707b446e5f0fd95bb2b68
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Fri Apr 1 00:43:28 2022 +0200
+
+    I added the unixTest.cpp file for unix testing
+
+commit d0d68184d72906461033bbb6e19126a269b6fb1f
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Fri Apr 1 00:34:12 2022 +0200
+
+    I modified the default run to accomodate all options
+
+commit df124b661b33d0712c3c2472ff299c496a0f5c92
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Fri Apr 1 00:32:17 2022 +0200
+
+    I added the method to create a new PGM file and write this to an output file
+
+commit 89170ed0e4df4af32d447ea730253dac5ba6dca9
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Fri Apr 1 00:00:33 2022 +0200
+
+     Modified the driver
+
+commit e2629efab1a083d7761c4e9158f5fb1aacc2ec02
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Thu Mar 31 23:52:35 2022 +0200
+
+    Added the compare operator method and opertator < methods
+
+commit 071d5a36e1f1e8fc57291b021c9ace6b3fcb1fbe
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 21:48:17 2022 +0200
+
+    I modified the PGMImageProcessor header file
+
+commit d56ffe6d96be011160a13c2886b1dd2f30a438ec
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 21:47:24 2022 +0200
+
+    I added all the methods in the ConnectedComponents.h
+
+commit 7b0ec6da95d23d56fd58a22a1cc92231c11f1e90
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 21:46:31 2022 +0200
+
+    I modified ConnectedComponents.h
+
+commit 2dff4e1f6a1f78d8305bb9b3032e5e440fc66a8c
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 21:45:39 2022 +0200
+
+    I modified findcomp.cpp
+
+commit 141830a7cf34b0f5d9ee7db61d7cb6b8a8ecb4ec
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 21:43:47 2022 +0200
+
+    I modified ConnectedComponents.h
+
+commit 9818573510153e2907ce68854aa3ebdf8abb04a9
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 19:51:24 2022 +0200
+
+    I modified PGMImageProcessor.h
+
+commit 185561e3089097a75cf1460aa9ab99f7b7a93543
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 19:51:03 2022 +0200
+
+    I modified ConnectedComponents.h
+
+commit 284d5a320afaa741f183a382086256c04bd88286
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 19:50:37 2022 +0200
+
+    I modified PGMImageProcessor.cpp
+
+commit e2f9ce94ba2da8d6bc364510288994dcdda9d4ae
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 19:32:39 2022 +0200
+
+    I added the driver file called findcomp.cpp
+
+commit bbc988f33f59df2e48a53ac3ce65ea993777c2f1
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 19:26:02 2022 +0200
+
+    I added a Makefile to help run the code
+
+commit 58460dff95d9401650076bc037e8825a11a04fba
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Mar 29 19:11:14 2022 +0200
+
+    I added the following files for connected components functionalities, ConnectedComponents.h and ConnectedComponents.cpp
+
+commit aedd762a47f66ed95f6580418fdfb41418d00cf4
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Fri Mar 25 20:50:10 2022 +0200
+
+    Modified the structure of the PGMImageProcessor.h and declared all relevent methods
+
+commit e03bb059475a9d9198f1ca310dc35541b72617cb
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Fri Mar 25 20:36:56 2022 +0200
+
+    I added the PGMImageProcessor.h and PGMImageProcessor.cpp files
